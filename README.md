@@ -1,1 +1,1 @@
-Calculator-Project-CodSoft
+Calculator-Project
